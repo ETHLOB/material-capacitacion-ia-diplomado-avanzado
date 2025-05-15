@@ -1,21 +1,22 @@
-# Diplomado IA y AP - Avanzado
-Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en inteligencia artificial y aprendizaje de máquinas para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
-## Horarios 
-Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
+# Material de aprendizaje de IA de cero a héroe
+Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en inteligencia artificial y aprendizaje de máquinas para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información. Este repositorio es un fork del trabajo original del **Diplomado Avanzado en IA y AP** ofrecido por la [Universidad Nacional de Colombia](https://ingenieria.bogota.unal.edu.co/uecp/). El contenido original fue creado, mantenido y administrado por los profesores y profesionales:
 
-Sábados, 8-12m (hora de Colombia)
+## Contribuidores del curso
+### Administrativo
+- Campo Elías Pardo Turriago, _(director del programa)_, [cepardot@unal.edu.co](mailto:cepardot@unal.edu.co)
+### Conferencistas 
+- Álvaro Mauricio Montenegro Díaz, PhD, [ammontenegrod@unal.edu.co](mailto:ammontenegrod@unal.edu.co)
+- Oleg Jarma Montoya, Estadístico, [ojarmam@unal.edu.co](mailto:ojarmam@unal.edu.co)
+- Daniel Mauricio Montenegro Reyes, MSc, [dextronomo@gmail.com](mailto:dextronomo@gmail.com)
+### Asesora Medios y Marketing digital
+- Maria del Pilar Montenegro, [pmontenegro88@gmail.com](mailto:pmontenegro88@gmail.com)
+#### Apoyo académico 
+- Nayibe Yesenia Arias Cortez, [naariasc@unal.edu.co](mailto:naariasc@unal.edu.co ) 
+- Venus Celeste Puertas Gualtero, [vpuertasg@unal.edu.co](mailto:vpuertasg@unal.edu.co)
 
-## Coordinador
-- Campo Elías Pardo Turriago, cepardot@unal.edu.co
-## Conferencistas 
-- Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
-- Oleg Jarma Montoya, Estadístico, ojarmam@unal.edu.co 
-- Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
-## Asesora Medios y Marketing digital
-- Maria del Pilar Montenegro, pmontenegro88@gmail.com
- ### Monitoras 
- - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co 
- - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
+# Profesionalización
+De este punto en adelante el contenido presentará modificaciones de acuerdo a los análisis posteriores y posibles contribuciones que se hagan al material.
+
 ## Introducción
  - Estreno: La Inteligencia Artificial hoy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Cuadernos/IA_Estado_Arte.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/A%20Introducci%C3%B3n/Presentaciones/Estado_del_Arte-1.html#/)
 
