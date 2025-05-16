@@ -119,7 +119,7 @@ De acuerdo a la descripción original, este es un repositorio para *«aquellos i
 * Chatbot basado en AR [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_chat_bots.ipynb)
 
 ## Contribuidores originales del curso
-El contenido original de este repositorio fue creado, mantenido y administrado por los profesores y profesionales:
+El contenido original de este repositorio ha sido creado, mantenido y administrado por los profesores y profesionales:
 
 ### Administrativos
 - Campo Elías Pardo Turriago, _(director del programa)_, [cepardot@unal.edu.co](mailto:cepardot@unal.edu.co)
